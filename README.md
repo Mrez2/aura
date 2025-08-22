@@ -83,8 +83,3 @@ Allow users to load custom styles dynamically
 
 Enhance performance using GPU acceleration
 
-🏆 Acknowledgements
-
-Johnson et al., ECCV16 – Perceptual Losses for Real-Time Style Transfer and Super-Resolution
-
-jcjohnson/fast-neural-style
